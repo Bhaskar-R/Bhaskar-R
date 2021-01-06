@@ -33,7 +33,7 @@
 <br />
 <br />
 
-### 📈 My GITHUB Stats:
+### 📈 My GitHub Stats:
 <p align ="center"> <img alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&count_private=true&theme=gotham" />
 
 
