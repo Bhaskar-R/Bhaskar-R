@@ -1,7 +1,5 @@
 ### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R.Bhaskar-R)
-
 ## I'm Bhaskar, a Passionate Self Taught Developer, Programmer and a Student.
 
 - 🔭 I'm Currently Working on Something Cool 😎
@@ -32,6 +30,8 @@
 
 <br />
 <br />
+
+![](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R.Bhaskar-R)
 
 ### 📈 My GitHub Stats:
 <p align ="center"> <img alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&count_private=true&theme=gotham" />
