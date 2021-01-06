@@ -35,7 +35,6 @@
 <p align ="center"> <img alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&count_private=true&theme=gotham" />
 
 
-
 ![](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R.Bhaskar-R)
 
 
