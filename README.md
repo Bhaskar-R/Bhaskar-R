@@ -35,8 +35,6 @@
 <img align="left" alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&hide_border=true&count_private=true&theme=gotham" />
 
 
-
-
 [twitter]: https://twitter.com/bhaskar9980
 [instagram]: https://www.instagram.com/bhaskar_51/
 [linkedin]: https://www.linkedin.com/in/bhaskar9980/
