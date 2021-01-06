@@ -2,7 +2,7 @@
 
 ## I'm Bhaskar, a Passionate Self Taught Developer, Programmer and a Student.
 
-- 🔭 I'm Currently Working on Something Cool 😎
+- 🔭 I'm Currently Working on Something Cool <img scr="https://media.giphy.com/media/l0Iyk1HsfD3mMkiEE/giphy.gif" width="25px">
 - 🌱 I’m Currently Learning Python.                                                                       
 - 🥅 2021 Goals: Contribute More to Open Source Projects.
 - ⚡ Fun fact: I Love Playing Basketball and Listening to Music.
