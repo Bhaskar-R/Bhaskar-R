@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi There 👋
 
 ## I'm Bhaskar, a Passionate Self Taught Developer, Programmer and a Student.
 
@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I Love Playing Basketball and Listening to Music.
 
 
-### Connect with me:
+### Connect With Me:
 
 [<img align="left" alt="Bhaskar-R | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Bhaskar-R | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,7 +33,7 @@
 
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
