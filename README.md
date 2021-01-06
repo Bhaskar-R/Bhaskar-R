@@ -1,4 +1,6 @@
-### Hi There 👋
+### Hi There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+![](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R.Bhaskar-R)
 
 ## I'm Bhaskar, a Passionate Self Taught Developer, Programmer and a Student.
 
@@ -32,7 +34,7 @@
 <br />
 <br />
 
-<img align="left" alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&hide_border=true&count_private=true&theme=gotham" />
+<p align ="center"> <img alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&count_private=true&theme=gotham" />
 
 
 [twitter]: https://twitter.com/bhaskar9980
