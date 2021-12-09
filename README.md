@@ -4,7 +4,7 @@
 
 - 🔭 I'm Currently Working on Something Cool <img src="https://media.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.gif" width="23px">
 - 🌱 I’m Currently Learning Blockchain.                                                                       
-- 🥅 2021 Goals: Contribute More to Open Source Projects.
+- 🥅 2022 Goals: Contribute More to Open Source Projects.
 - ⚡ Fun fact: I Love Playing Basketball and Listening to Music.
 
 
