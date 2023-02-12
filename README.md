@@ -10,9 +10,9 @@
 
 ### Connect With Me:
 
-[<img align="left" alt="Bhaskar-R | Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Bhaskar-R | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Bhaskar-R | Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Bhaskar-R | Twitter" width="24px" src="Images/Images/Twitter.png" />][twitter]
+[<img align="left" alt="Bhaskar-R | LinkedIn" width="24px" src="Images/Images/LinkedIn.png" />][linkedin]
+[<img align="left" alt="Bhaskar-R | Instagram" width="24px" src="Images/Images/Instagram.png" />][instagram]
 
 <br />
 
