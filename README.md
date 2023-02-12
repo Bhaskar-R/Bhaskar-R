@@ -40,5 +40,5 @@
 
 
 [twitter]: https://twitter.com/bhaskar9980
-[instagram]: https://www.instagram.com/bhaskar_51/
+[instagram]: https://www.instagram.com/bhaskar.1606/
 [linkedin]: https://www.linkedin.com/in/bhaskar9980/
