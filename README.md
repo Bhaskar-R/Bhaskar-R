@@ -20,16 +20,18 @@
 
 <img align="left" alt="C" width="30px" src="Images/Images/C.png" />
 <img align="left" alt="C++" width="30px" src="Images/Images/C++.png" />
-<img align="left" alt="C#" width="30px" src="Images/Images/C#.png" />
+<img align="left" alt="C#" width="30px" src="Images/Images/CSharp.png" />
 <img align="left" alt="Python" width="30px" src="Images/Images/Python.png" />
+<img align="left" alt="Ruby" width="30px" src="Images/Images/Ruby.png" />
+<img align="left" alt="HTML" width="30px" src="Images/Images/HTML.png" />
+<img align="left" alt="CSS" width="30px" src="Images/Images/Css.png" />
+<img align="left" alt="Git" width="30px" src="Images/Images/Git.png" />
+<img align="left" alt="Mongo DB" width="30px" src="Images/Images/MongoDB.png" />
+<img align="left" alt="MySQL" width="30px" src="Images/Images/MySQL.png" />
+<img align="left" alt="Ubuntu" width="30px" src="Images/Images/Ubuntu.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
+<img align="left" alt="Unity" width="30px" src="Images/Images/Unity.png" />
+<img align="left" alt="Shell" width="30px" src="Images/Images/Shell.png" />
 
 <br />
 <br />
