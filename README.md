@@ -25,7 +25,7 @@
 <img align="left" alt="Ruby" width="30px" src="Images/Images/Ruby.png" />
 <img align="left" alt="HTML" width="31px" src="Images/Images/HTML.png" />
 <img align="left" alt="CSS" width="28px" src="Images/Images/Css.png" />
-<img align="left" alt="Git" width="32px" src="Images/Images/Git.png" />
+<img align="left" alt="Git" width="33px" src="Images/Images/Git.png" />
 <img align="left" alt="Mongo DB" width="27px" src="Images/Images/MongoDB.png" />
 <img align="left" alt="MySQL" width="30px" src="Images/Images/MySQL.png" />
 <img align="left" alt="Ubuntu" width="30px" src="Images/Images/Ubuntu.png" />
