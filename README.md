@@ -3,8 +3,8 @@
 ## I'm Bhaskar, a Passionate Self Taught Developer, Programmer and a Student.
 
 - 🔭 I'm Currently Working on Something Cool <img src="https://media.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.gif" width="23px">
-- 🌱 I’m Currently Learning Blockchain.                                                                       
-- 🥅 2022 Goals: Contribute More to Open Source Projects.
+- 🌱 I’m Currently Learning Ruby and Getting to know about High Frequency Trading.                                                                       
+- 🥅 2023 Goals: Contribute More to Open Source Projects.
 - ⚡ Fun fact: I Love Playing Basketball and Listening to Music.
 
 
