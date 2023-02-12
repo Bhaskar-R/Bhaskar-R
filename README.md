@@ -30,7 +30,7 @@
 <img align="left" alt="MySQL" width="30px" src="Images/Images/MySQL.png" />
 <img align="left" alt="Ubuntu" width="30px" src="Images/Images/Ubuntu.png" />
 <img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" />
-<img align="left" alt="Unity" width="30px" src="Images/Images/Unity.png" />
+<img align="left" alt="Unity" width="90px" src="Images/Images/Unity.png" />
 <img align="left" alt="Shell" width="30px" src="Images/Images/Shell.png" />
 
 <br />
