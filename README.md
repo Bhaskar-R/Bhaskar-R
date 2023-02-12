@@ -20,7 +20,7 @@
 
 <img align="left" alt="C" width="30px" src="Images/Images/C.png" />
 <img align="left" alt="C++" width="30px" src="Images/Images/C++.png" />
-<img align="left" alt="C#" width="37px" src="Images/Images/CSharp.png" />
+<img align="left" alt="C#" width="38px" src="Images/Images/CSharp.png" />
 <img align="left" alt="Python" width="30px" src="Images/Images/Python.png" />
 <img align="left" alt="Ruby" width="30px" src="Images/Images/Ruby.png" />
 <img align="left" alt="HTML" width="30px" src="Images/Images/HTML.png" />
