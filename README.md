@@ -1,6 +1,6 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm Bhaskar, a Passionate Self Taught Developer, Programmer and a Student.
+## I'm Bhaskar, a Passionate Self-Taught Developer, Tech Enthusiast, and Perpetual Learner.
 
 - 🔭 I'm Currently Working on Something Cool <img src="https://media.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.gif" width="23px">
 - 🌱 I’m Currently Learning Ruby and Getting to know about High Frequency Trading.                                                                       
