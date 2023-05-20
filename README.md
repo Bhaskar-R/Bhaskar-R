@@ -1,9 +1,9 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm Bhaskar, a Passionate Self-Taught Developer, Tech Enthusiast, and Perpetual Learner.
+## I'm Bhaskar, a Passionate Developer, Tech Enthusiast and Perpetual Learner.
 
 - 🔭 I'm Currently Working on Something Cool <img src="https://media.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.gif" width="23px">
-- 🌱 I’m Currently Learning Ruby and Getting to know about High Frequency Trading.                                                                       
+- 🌱 I’m Currently Learning Ruby and Getting to know about High Frequency Trading.                                                                     
 - 🥅 2023 Goals: Contribute More to Open Source Projects.
 - ⚡ Fun fact: I Love Playing Basketball and Listening to Music.
 
@@ -42,7 +42,7 @@
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R.Bhaskar-R)
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Bhaskar-R&left_color=green&right_color=red)
 
 [twitter]: https://twitter.com/bhaskar9980
 [instagram]: https://www.instagram.com/bhaskar.1606/
