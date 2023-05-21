@@ -2,10 +2,10 @@
 
 ## I'm Bhaskar, a Passionate Developer, Tech Enthusiast and Perpetual Learner.
 
-- 🔭 I'm Currently Working on Something Cool <img src="https://media.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.gif" width="23px">
-- 🌱 I’m Currently Learning Ruby and Getting to know about High Frequency Trading.                                                                     
-- 🥅 2023 Goals: Contribute More to Open Source Projects.
-- ⚡ Fun fact: I Love Playing Basketball and Listening to Music.
+- 🔭 Currently, I'm working on something cool to push the boundaries of what's possible <img src="https://media.giphy.com/media/5QSqXWQWCoeGch9RX6/giphy.gif" width="23px">
+- 🌱 I'm always eager to learn and currently diving into Ruby while exploring the fascinating world of High Frequency Trading.
+- 🥅 2023 Goals: Contribute more to open source projects and make a positive impact on the developer community.
+- ⚡ Fun fact: When I'm not coding, you can find me on the basketball court or lost in the rhythm of music.
 
 
 ### Connect With Me:
