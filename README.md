@@ -6,6 +6,7 @@
 - 🌱 I'm always eager to learn and currently diving into Ruby while exploring the fascinating world of High Frequency Trading.
 - 🥅 2023 Goals: Contribute more to open source projects and make a positive impact on the developer community.
 - ⚡ Fun fact: When I'm not coding, you can find me on the basketball court or lost in the rhythm of music.
+- 💬 Feel free to ask me anything [here](https://github.com/Bhaskar-R/Bhaskar-R/issues)! I'm happy to chat about anything related to technology, coding, or beyond.
 
 
 ### Connect With Me:
