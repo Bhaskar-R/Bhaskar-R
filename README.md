@@ -1,48 +1,96 @@
-### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<div align="center">
+  
+# Hi, I'm Bhaskar Rongali 👋
 
-## I'm Bhaskar, a Passionate Developer, Tech Enthusiast and Perpetual Learner.
+### Passionate Developer | Backend Engineer | Perpetual Learner
 
-- 🔭 Currently, I'm working on something cool to push the boundaries of what's possible.
-- 🌱 I'm always eager to learn and currently diving into Ruby while exploring the fascinating world of High Frequency Trading.
-- 🥅 2023 Goals: Contribute more to open source projects and make a positive impact on the developer community.
-- ⚡ Fun fact: When I'm not coding, you can find me on the basketball court or lost in the rhythm of music.
-- 💬 Feel free to ask me anything [here](https://github.com/Bhaskar-R/Bhaskar-R/issues)! I'm happy to chat about anything related to technology, coding, or beyond.
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-00C7B7?style=for-the-badge&logoColor=white)](https://bhaskar-rongali.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar9980/)
 
-
-### Connect With Me:
-
-[<img align="left" alt="Bhaskar-R | Twitter" width="32px" src="Images/Images/Twitter.png" />][twitter]
-[<img align="left" alt="Bhaskar-R | LinkedIn" width="30px" src="Images/Images/LinkedIn.png" />][linkedin]
-[<img align="left" alt="Bhaskar-R | Instagram" width="30px" src="Images/Images/Instagram.png" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<div style="display: flex; flex-wrap: wrap;">
-  <img align="left" alt="C" width="30px" src="Images/Images/C.png" style="margin-right: 5px;">
-  <img align="left" alt="C++" width="30px" src="Images/Images/C++.png" style="margin-right: 5px;">
-  <img align="left" alt="C#" width="35px" src="Images/Images/CSharp.png" style="margin-right: 5px;">
-  <img align="left" alt="Python" width="30px" src="Images/Images/Python.png" style="margin-right: 5px;">
-  <img align="left" alt="Ruby" width="30px" src="Images/Images/Ruby.png" style="margin-right: 5px;">
-  <img align="left" alt="HTML" width="31px" src="Images/Images/HTML.png" style="margin-right: 5px;">
-  <img align="left" alt="CSS" width="28px" src="Images/Images/Css.png" style="margin-right: 5px;">
-  <img align="left" alt="Git" width="33px" src="Images/Images/Git.png" style="margin-right: 5px;">
-  <img align="left" alt="Mongo DB" width="26px" src="Images/Images/MongoDB.png" style="margin-right: 5px;">
-  <img align="left" alt="MySQL" width="30px" src="Images/Images/MySQL.png" style="margin-right: 5px;">
-  <img align="left" alt="Ubuntu" width="30px" src="Images/Images/Ubuntu.png" style="margin-right: 5px;">
-  <img align="left" alt="Visual Studio Code" width="30px" src="Images/Images/VisualStudio.png" style="margin-right: 5px;">
-  <img align="left" alt="Unity" width="30px" src="Images/Images/Unity.png" style="margin-right: 5px;">
-  <img align="left" alt="Shell" width="31px" src="Images/Images/Shell.png" style="margin-right: 5px;">
 </div>
 
-<br />
-<br />
+---
 
-### 📈 My GitHub Stats:
-<p align="center"> <img align="center" alt="Bhaskar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Bhaskar-R&show_icons=true&count_private=true&theme=gotham&hide_border=false" />
+## 🚀 About Me
 
+Software Engineer with **2+ years** of experience building **scalable backend systems** and **microservices architectures**. Specialized in **.NET, MongoDB, and distributed systems**. Passionate about writing clean, efficient code that solves real-world problems.
 
-[twitter]: https://twitter.com/bhaskar9980
-[instagram]: https://www.instagram.com/bhaskar.1606/
-[linkedin]: https://www.linkedin.com/in/bhaskar9980/
+- 🔭 Building robust REST APIs and microservices
+- 🎯 Focused on backend development, database optimization, and system architecture
+- 🌱 Exploring advanced distributed systems and cloud-native technologies
+- 🎓 M.Tech in Computer Science from IIIT Kancheepuram (CGPA: 8.75)
+- 🏀 Basketball enthusiast and music lover
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### **Backend & Core**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-00C7B7?style=for-the-badge&logo=swagger&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microdotblog&logoColor=white)
+
+### **Languages & Frameworks**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Databases & DevOps**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bhaskar-R&theme=react-dark&hide_border=true&area=true" width="95%">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhaskar-R&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhaskar-R&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhaskar-R&theme=github_dark" />
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💬 Connect
+
+<div align="center">
+
+**Building scalable solutions, one microservice at a time** 🚀
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bhaskar--rongali.netlify.app-00C7B7?style=flat-square)](https://bhaskar-rongali.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-bhaskar9980-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bhaskar9980/)
+[![Email](https://img.shields.io/badge/📧_Email-bhaskar9980%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:bhaskar9980@gmail.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bhaskar-R&style=flat-square&color=00C7B7)
+
+</div>
