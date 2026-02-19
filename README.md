@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Software Engineer with **2+ years** of experience building **scalable backend systems** and **microservices architectures**. Specialized in **.NET, MongoDB, and distributed systems**. Passionate about writing clean, efficient code that solves real-world problems.
+Software Engineer with **3+ years** of experience building **scalable backend systems** and **microservices architectures**. Specialized in **.NET, MongoDB, and distributed systems**. Passionate about writing clean, efficient code that solves real-world problems.
 
 - 🔭 Building robust REST APIs and microservices
 - 🎯 Focused on backend development, database optimization, and system architecture
