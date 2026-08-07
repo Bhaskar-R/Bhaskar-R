@@ -4,7 +4,7 @@
 
 ### Passionate Developer | Backend Engineer | Perpetual Learner
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-009688?style=for-the-badge)](https://bhaskar-rongali.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-009688?style=for-the-badge)](https://bhaskar-rongali.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar9980/)
 
 </div>
@@ -73,7 +73,7 @@ Software Engineer with **3+ years** of experience building **scalable backend sy
 
 **Building scalable solutions, one microservice at a time** 🚀
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-009688?style=for-the-badge)](https://bhaskar-rongali.netlify.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-009688?style=for-the-badge)](https://bhaskar-rongali.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar9980/)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskar9980@gmail.com)
 
