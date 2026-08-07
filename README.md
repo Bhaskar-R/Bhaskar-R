@@ -56,11 +56,11 @@ Software Engineer with **3+ years** of experience building **scalable backend sy
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bhaskar-R&theme=github_dark" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhaskar9980&theme=github_dark" width="100%" />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bhaskar-R&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Bhaskar-R&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bhaskar9980&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bhaskar9980&theme=github_dark" width="49%" />
 </p>
 
 </div>
@@ -77,6 +77,6 @@ Software Engineer with **3+ years** of experience building **scalable backend sy
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar9980/)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhaskar9980@gmail.com)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bhaskar-R&style=for-the-badge&color=009688)
+![Profile Views](https://komarev.com/ghpvc/?username=bhaskar9980&style=for-the-badge&color=009688)
 
 </div>
