@@ -2,7 +2,9 @@
   
 # Hi, I'm Bhaskar Rongali 👋
 
-### Passionate Developer | Backend Engineer | Perpetual Learner
+### Backend Engineer · .NET / MongoDB / Kafka · Distributed Systems
+
+**I build the systems that pay Europe's truck drivers.**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-009688?style=for-the-badge)](https://bhaskar-rongali.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar9980/)
@@ -13,13 +15,23 @@
 
 ## 🚀 About Me
 
-Software Engineer with **3+ years** of experience building **scalable backend systems** and **microservices architectures**. Specialized in **.NET, MongoDB, and distributed systems**. Passionate about writing clean, efficient code that solves real-world problems.
+Software Engineer II at **Platform Science** (previously Trimble). I work on the backend of **FleetHours NextGen** — a payroll platform for European road transport that turns raw driver activity into salary. It is a distributed **.NET/MongoDB** microservice estate on **Kubernetes**, with **Kafka** for event-driven state and **Quartz** for scheduling.
 
-- 🔭 Building robust REST APIs and microservices
-- 🎯 Focused on backend development, database optimization, and system architecture
-- 🌱 Exploring advanced distributed systems and cloud-native technologies
-- 🎓 M.Tech in Computer Science from IIIT Kancheepuram (CGPA: 8.75)
+- 🔭 Currently: the **salary calculation engine** — 20 configurable salary rules executing in dependency order, per customer's collective labour agreement
+- 🛠️ At work: **355+ peer-reviewed pull requests** merged across 40 repositories, **12 microservices** built from scratch
+- 📄 Published a blockchain payments paper at **IEEE TrustCom 2023**
+- 🎓 B.Tech + M.Tech (Dual Degree) in CSE, IIITDM Kancheepuram — CGPA 8.75/10
 - 🏀 Basketball enthusiast and music lover
+
+---
+
+## 📦 Featured Projects
+
+| Project | What it is |
+|---|---|
+| **[TeamSync](https://github.com/bhaskar9980/PromptWars)** | AI-powered team collaboration platform — Gemini-generated standups, natural-language task creation, real-time workload dashboard. **Top 10 of 100+ participants** at the PromptWars hackathon. Google Cloud Run + Firestore. |
+| **[BlockPay](https://github.com/bhaskar9980/BlockPay)** | Contactless payment system on a bidirectional blockchain — BLAKE + Chameleon hashing, **~30% faster mining than SHA-256**, validated with 100+ transactions on real hardware (ESP32, RC522 RFID). Published at [IEEE TrustCom 2023](https://ieeexplore.ieee.org/document/10538542). |
+| **[Guardian](https://github.com/bhaskar9980/Guardian)** | Fully automated hydroponics system — fuzzy-logic pH control, custom master/slave PCBs, an I2C communication library, and Firebase-based remote monitoring. Best Project Award, IIITDM Kancheepuram. |
 
 ---
 
@@ -31,6 +43,7 @@ Software Engineer with **3+ years** of experience building **scalable backend sy
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microdotblog&logoColor=white)
 
@@ -43,8 +56,10 @@ Software Engineer with **3+ years** of experience building **scalable backend sy
 ### **Databases & DevOps**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
